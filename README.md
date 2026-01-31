@@ -2,7 +2,7 @@
 
 MS Data Science @ Northeastern University  
 Business Data Analyst & AI Enthusiast  
-Open to **Data Analyst / Analytics Engineer** roles in Boston (EAD available)
+Open to **Data Analyst / Analytics Engineer/ Data Scientist** roles in Boston (EAD available)
 
 🔧 **Skills**  
 - SQL, Python, Power BI / Tableau  
