@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mahadharsan 👋
 
-<!--
-**mahadharsan/mahadharsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Science @ Northeastern University  
+Business Data Analyst & AI Enthusiast  
+Open to **Data Analyst / Analytics Engineer** roles in Boston (EAD available)
 
-Here are some ideas to get you started:
+🔧 **Skills**  
+- SQL, Python, Power BI / Tableau  
+- dbt, LangChain, ETL pipelines  
+- Generative AI experiments (RAG, NL2SQL, LangGraph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Experience**  
+- Data Engineer @ Cognizant  
+- Data Analyst Intern @ Formlabs  
+- Business Analytics Intern @ Waste Management
+
+📊 **Highlights**  
+- Retail SQL analytics & revenue optimization projects  
+- Healthcare predictive modeling  
+- Building LLM agents & public data dashboards
+
+🔗 Connect:  
+[LinkedIn](https://www.linkedin.com/in/mahadharsan/) | [Website](https://mahadharsan.netlify.app/)
+
+Currently exploring: Advanced RAG systems & interactive BI dashboards  
+Open to chat if you're hiring, collaborating, or just want to talk data!
